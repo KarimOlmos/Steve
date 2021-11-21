@@ -1,0 +1,65 @@
+body {
+
+background-color: #91EEFF;
+
+}
+
+
+a:visited {
+
+background-color: blue;
+color: white;
+
+}
+
+a:link {
+
+background-color:white;
+color: blue;
+
+}
+
+
+
+h1::first-letter {
+
+font-size: 5rem;
+
+
+}
+
+
+section {
+
+text-align: center;
+
+
+}
+
+p:first-line{
+
+color: red
+	
+	
+}
+
+
+li{
+
+text-align: left;
+
+}
+
+strong{
+
+text-align: left;
+
+}
+
+
+em:hover {
+
+background-color: yellow;
+color: red;
+
+}
